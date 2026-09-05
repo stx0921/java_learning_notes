@@ -284,16 +284,16 @@ limit 10
 
 ## 五、技术栈
 
-| 分类 | 技术 |
-| --- | --- |
-| 基础框架 | Spring Boot 2.7.3、Spring MVC、Lombok |
-| 持久层 | MyBatis + XML 映射、PageHelper 分页、Druid 连接池、MySQL |
-| 缓存 | Spring Data Redis、Spring Cache（`@Cacheable` / `@CacheEvict`） |
-| 鉴权 | JWT（JJWT 0.9.1）、双端拦截器、ThreadLocal 上下文 |
-| 接口文档 | Knife4j（Swagger 2.0） |
-| 实时通信 | WebSocket（来单提醒、客户催单） |
-| 任务调度 | Spring `@Scheduled` 定时任务 |
-| 文件服务 | 阿里云 OSS |
-| 支付 | 微信支付 V3 API（wechatpay-apache-httpclient） |
-| 报表导出 | Apache POI（XSSFWorkbook + 模板填充） |
-| 其他 | AOP 切面、统一异常处理、fastjson |
+| 分类   | 技术                                                           |
+| ---- | ------------------------------------------------------------ |
+| 基础框架 | Spring Boot 2.7.3、Spring MVC、Lombok                          |
+| 持久层  | MyBatis + XML 映射、PageHelper 分页、Druid 连接池、MySQL               |
+| 缓存   | Spring Data Redis、Spring Cache（`@Cacheable` / `@CacheEvict`） |
+| 鉴权   | JWT（JJWT 0.9.1）、双端拦截器、ThreadLocal 上下文                        |
+| 接口文档 | Knife4j（Swagger 2.0）                                         |
+| 实时通信 | WebSocket（来单提醒、客户催单）                                         |
+| 任务调度 | Spring `@Scheduled` 定时任务                                     |
+| 文件服务 | 阿里云 OSS                                                      |
+| 支付   | 微信支付 V3 API（wechatpay-apache-httpclient）                     |
+| 报表导出 | Apache POI（XSSFWorkbook + 模板填充）                              |
+| 其他   | AOP 切面、统一异常处理、fastjson                                       |
