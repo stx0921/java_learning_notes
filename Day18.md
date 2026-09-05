@@ -137,12 +137,12 @@ public class JwtUtils {
 }
 ```
 
-| 方法 | 说明 |
-|------|------|
-| `signWith(SignatureAlgorithm.HS256, key)` | 指定签名算法和密钥 |
-| `setClaims(map)` | 添加自定义信息（载荷） |
-| `setExpiration(date)` | 设置过期时间 |
-| `compact()` | 生成最终令牌字符串 |
+| 方法                                        | 说明          |
+| ----------------------------------------- | ----------- |
+| `signWith(SignatureAlgorithm.HS256, key)` | 指定签名算法和密钥   |
+| `setClaims(map)`                          | 添加自定义信息（载荷） |
+| `setExpiration(date)`                     | 设置过期时间      |
+| `compact()`                               | 生成最终令牌字符串   |
 
 ### 3.3 整体流程
 
