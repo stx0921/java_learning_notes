@@ -36,6 +36,14 @@
 | Day32 | Apache POI（读/写操作）、苍穹外卖项目收尾（架构与基础设施、核心业务问答） | [Day32.md](./Day32.md) |
 | Day33 | Redis 入门：SQL 与 NoSQL 对比、Redis 特性与安装（Ubuntu/CentOS）、启动验证、安全配置、Windows 连接虚拟机中的 Redis | [Day33.md](./Day33.md) |
 | Day34 | Redis 的 Java 客户端（Jedis 连接池、SpringDataRedis 序列化）、MyBatis-Plus 知识点、基于 Redis 的登录校验（hm-dianping 实战） | [Day34.md](./Day34.md) |
+| Day27 | Redis 入门：Redis 概述、常用数据类型（字符串/哈希/列表/集合/有序集合）、Redis 常用命令 | [Day27.md](./Day27.md) |
+| Day28 | 苍穹外卖微信登录与商品浏览：HttpClient、小程序开发项目结构、微信登录技术、商品浏览功能开发 | [Day28.md](./Day28.md) |
+| Day29 | 缓存菜品代码开发、SpringCache（@EnableCaching/@Cacheable/@CachePut）、购物车与用户下单 | [Day29.md](./Day29.md) |
+| Day35 | 缓存与 Redis 缓存问题：缓存基础、三种更新策略与 CacheAside、缓存穿透/击穿/雪崩 | [Day35.md](./Day35.md) |
+| Day36 | 全局 ID 生成器：核心要求（五大特性）、雪花算法结构、常见实现方案对比（Redis 方案） | [Day36.md](./Day36.md) |
+| Day38 | 秒杀下单的并发控制：超卖问题（悲观锁/乐观锁/CAS）、一人一单、分布式锁 | [Day38.md](./Day38.md) |
+| Day39 | Redis 分布式锁：SETNX 初版、线程标识防误删、Lua 脚本保证校验与释放原子性 | [Day39.md](./Day39.md) |
+| Day40 | Redisson 可重入性与分布式锁源码分析：加锁/释放锁流程、可重试与超时释放、看门狗续期机制 | [Day40.md](./Day40.md) |
 
 ## 学习路线
 
