@@ -13,3 +13,7 @@
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# init 草稿文件（不纳入版本管理）
+Day27_init.md
+Day28_init.md
