@@ -116,4 +116,4 @@ git clone https://github.com/stx0921/java_learning_notes.git
 
 ---
 
-<p align="center"><i>坚持每日打卡，100 天拿下 Java。</i></p>
+<p align="center"><i>最难不过坚持！</i></p>
